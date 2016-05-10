@@ -38,6 +38,11 @@
     <td>array|string[]</td>
     <td><code>["bunyan"]</code></td>
   </tr>
+  <tr>
+    <th>format</th>
+    <td>function</td>
+    <td><code>JSON.stringify</code></td>
+  </tr>
 </table>
 
 # Adding the bunyan-logstash stream to Bunyan
